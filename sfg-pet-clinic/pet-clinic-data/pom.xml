@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>pet-clinic-data</name>
     <description>pet-clinic-data</description>
     <properties>
@@ -63,4 +63,8 @@
             </plugin>
         </plugins>
     </build>
+
+  <scm>
+    <tag>sfg-pet-clinic-0.0.2</tag>
+  </scm>
 </project>
